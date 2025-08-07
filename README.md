@@ -1,6 +1,5 @@
 **Microsoft Movie Revenue Analysis**
 **Author: Kimani Jackline**
-**Email: kimani.jacque@outlook.com**
 
 **Project Overview**
  
@@ -49,4 +48,6 @@
 **Feel free to connect or collaborate:**
 
   🔗 [LinkedIn](https://www.linkedin.com/in/jackline-kimani-39642597/)
+  📧 [Email](Email: kimani.jacque@outlook.com)
   
+
