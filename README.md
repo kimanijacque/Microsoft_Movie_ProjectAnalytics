@@ -2,6 +2,8 @@
 
 **Author: Kimani Jackline**
 
+📧 (kimani.jacque@outlook.com)
+
 **Project Overview**
  
   - This project analyzes movie revenue data, focusing on:
@@ -50,6 +52,6 @@
 
   🔗 [LinkedIn](https://www.linkedin.com/in/jackline-kimani-39642597/)
   
-  📧 [Email](kimani.jacque@outlook.com)
+  
   
 
