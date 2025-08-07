@@ -1,7 +1,7 @@
   # Microsoft_Movie_ProjectAnalytics #
 
-    *Author; Kimani Jackline*
-    **email; kimani.jacque@outlook.com**
+    #Author; Kimani Jackline
+    #email; kimani.jacque@outlook.com#
 
 Movie Revenue Analysis
 
