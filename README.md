@@ -49,6 +49,6 @@
 
   🔗 [LinkedIn](https://www.linkedin.com/in/jackline-kimani-39642597/)
   
-  📧 [Email](Email: kimani.jacque@outlook.com)
+  📧 [Email](kimani.jacque@outlook.com)
   
 
