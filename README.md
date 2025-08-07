@@ -26,6 +26,12 @@ Tools that i Used;
 - Collab Notebook
 - Git & GitHub
 
+How to use this Repository;
+- Clone / Fork this repository.
+- Open the notebook in Jupyter Notebook or Visual Studio Code
+- Download the zipped file of data files.
+- Run the cells step-by -step to produce the analysis.
+
 Limitations
 - Some genres were marked as 'Unknown'
 - Dataset may not reflect global trends due to sample size
