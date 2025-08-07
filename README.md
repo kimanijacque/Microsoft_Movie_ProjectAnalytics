@@ -1,50 +1,60 @@
-  # Microsoft_Movie_ProjectAnalytics #
+Microsoft Movie Revenue Analysis 📊🎬
+Author: Kimani Jackline
+Email: kimani.jacque@outlook.com
 
-  # Author: Kimani Jackline
-  # Email: kimani.jacque@outlook.com
+Project Overview
+This project analyzes movie revenue data, focusing on:
 
-Movie Revenue Analysis
+Comparing domestic and foreign gross earnings
 
-This project explores and analyzes movie revenue data with a focus on comparing domestic and foreign gross earnings, and examining how factors like genre, studio, and release year impact revenue.
+Exploring how genre, studio, and release year influence revenue
 
-What to find;
+Repository Contents
+Microsoft_Movie_ProjectAnalytics.ipynb — Main notebook with data cleaning, exploration, and visualizations
 
-- `Microsoft_Movie_ProjectAnalytics.ipynb`: Collab Notebook containing all data cleaning, exploration, and visualizations.
-- `DataFiles_Microsoft.zip
-- `presentation.pptx`: Summary presentation with key insights ,conclusions and graphs.
-- `README.md`: This file.
+DataFiles_Microsoft.zip — Raw data files used in the project
 
-Key Features;
+presentation.pptx — Summary presentation of key insights and visuals
 
-- Data cleaning and preprocessing
-- Genre-wise revenue analysis
-- Domestic vs Foreign gross comparisons
-- Studio and genre crosstab visualized using heatmaps
+README.md — This documentation file
 
-Tools that i Used;
+Key Features
+Data cleaning and preprocessing
 
-- Python (Pandas, Matplotlib, Seaborn)
-- Collab Notebook
-- Git & GitHub
+Genre-wise revenue insights
 
-How to use this Repository;
+Domestic vs. foreign gross comparisons
 
-- Clone / Fork this repository.
-- Open the notebook in Jupyter Notebook or Visual Studio Code
-- Download the zipped file of data files.
-- Run the cells step-by -step to produce the analysis.
+Heatmap visualizations of studio vs. genre revenue trends
+
+Tools Used
+Python: Pandas, Matplotlib, Seaborn
+
+Google Colab
+
+Git & GitHub
+
+How to Use This Repository
+Clone or fork the repository
+
+Download and unzip the data files
+
+Open the notebook in Jupyter Notebook or Visual Studio Code
+
+Run each cell sequentially to reproduce the analysis
 
 Limitations
+Some movie genres were labeled as Unknown
 
-- Some genres were marked as 'Unknown'
-- Dataset may not reflect global trends due to sample size
+The dataset is not comprehensive and may not reflect global industry trends
 
 Future Improvements
+Add more recent movie data
 
-- Incorporate more recent data
-- Apply machine learning models for revenue prediction
-- Clean and merge with other film metadata sources
+Incorporate machine learning for revenue prediction
 
-  Connect With me
+Merge with other metadata sources (e.g., IMDB, TMDB)
 
-- https://www.linkedin.com/in/jackline-kimani-39642597/ 
+Let's Connect!
+Feel free to connect or collaborate:
+🔗 LinkedIn
