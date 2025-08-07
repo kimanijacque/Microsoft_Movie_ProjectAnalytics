@@ -1,7 +1,7 @@
   # Microsoft_Movie_ProjectAnalytics #
 
-  # Author; Kimani Jackline
-  # email; kimani.jacque@outlook.com
+  # Author: Kimani Jackline
+  # Email: kimani.jacque@outlook.com
 
 Movie Revenue Analysis
 
@@ -44,3 +44,7 @@ Future Improvements
 - Incorporate more recent data
 - Apply machine learning models for revenue prediction
 - Clean and merge with other film metadata sources
+
+  Connect With me
+
+- https://www.linkedin.com/in/jackline-kimani-39642597/ 
